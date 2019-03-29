@@ -3,6 +3,8 @@ Cyberpunk themed stylized desktop navigation using Rainmeter.
 Author: LJ
 Verison: 1.0
 
+FORMATTING ERROR
+
 TABLE OF CONTENTS
 -1. Introduction
 -2. First Time Setup
